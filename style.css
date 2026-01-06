@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #262a2f;
+    background: #263a2f;
 }
 
 .container {
@@ -94,4 +94,5 @@ body {
     100% {
         transform: translateX(0);
     }
+
 }
